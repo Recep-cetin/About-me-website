@@ -1,0 +1,52 @@
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\bin\Debug\CafeOtomasyonu.exe.config
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\bin\Debug\CafeOtomasyonu.exe
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\bin\Debug\CafeOtomasyonu.pdb
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.AssemblyReference.cache
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.AnaForm.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FirmaListesi.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.Properties.Resources.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.GenerateResource.cache
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.CoreCompileInputs.cache
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.exe
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.pdb
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FirmaTanim.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.MasaSatis.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.MusteriListesi.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.MusteriTanim.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.PersonelListesi.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.PersonelTanim.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.UrunListesi.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.UrunTanim.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FaturaSatis.resources
+D:\üni\2.Sınıf 2.Dönem\Görsel Programlama-2\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FaturaSatisListesi.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\bin\Debug\CafeOtomasyonu.exe.config
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\bin\Debug\CafeOtomasyonu.exe
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\bin\Debug\CafeOtomasyonu.pdb
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.AnaForm.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FaturaSatis.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FaturaSatisListesi.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FirmaListesi.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FirmaTanim.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.MasaSatis.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.MusteriListesi.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.MusteriTanim.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.PersonelListesi.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.PersonelTanim.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.UrunListesi.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.UrunTanim.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.exe
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.pdb
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.faturaalis.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.FaturaAlisListesi.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.GelirGider.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.KarZarar.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.StokTakip.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.GelirlerGiderler.resources
+C:\Users\MONSTER\Desktop\CafeOtomasyonu\CafeOtomasyonu\obj\Debug\CafeOtomasyonu.test.resources
